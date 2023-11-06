@@ -9,25 +9,191 @@ body {
 }
 
 body {
-  font-family: 'Merriweather', serif;
+  font-family: 'Lobster', sans-serif; 
   color: #000000;
-  font-size: 24px;
+  font-size: 16px;
   min-height: 1280px;
+}
 
+p,
+h1,
+h2,
+h3,
+h4,
+a {
+  margin: 0;
+  font-weight: 400;
+}
+
+h3 {
+  font-weight: 700;
+}
+
+a,
+a:visited,
+a:hover {
+  color: teal;
+  text-decoration: none;
+  border-bottom: 2px solid currentColor;
+}
+
+#intro {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+#intro h1 {
+  font-family: 'Lobster', sans-serif;
+  font-weight: 700;
+  font-size: 4em;
+  margin-top: 0;
+  margin-bottom: 0.25em;
+}
+
+#intro p {
+  font-size: 1.25em;
+}
+
+@keyframes bounce {
+  0%, 20%, 50%, 80%, 100% {
+    transform: translateY(0);
+  }
+  40% {
+    transform: translateY(-30px);
+  }
+  60% {
+    transform: translateY(-15px);
+  }
+}
+
+
+#outro {
+  height: 540px;
+}
+
+#scrolly {
+  position: relative;
+  background-color: #f3f3f3;
+  /*padding: 1rem;*/
+}
+
+article {
+  position: relative;
+  padding: 0;
+  max-width: 30rem;
+  margin: 0 0 0 5em;
+}
+
+figure {
+  position: -webkit-sticky;
+  position: sticky;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  -webkit-transform: translate3d(0, 0, 0);
+  -moz-transform: translate3d(0, 0, 0);
+  transform: translate3d(0, 0, 0);
+  background-color: #8a8a8a;
+  z-index: 0;
+}
+
+#map {
+  position: absolute;
+  z-index: 10;
+  width: 100vw;
+  height: 100vh;
+}
+
+#masthead {
+  right: 0;
+  position: absolute;
+  z-index: 11;
+  padding: 1em;
+}
+
+#masthead h3 {
+  font-weight: 400;
+}
+
+figure p {
+  text-align: center;
+  padding: 1rem;
+  position: absolute;
+  z-index: 100;
+  top: 50%;
+  left: 50%;
+  -moz-transform: translate(-50%, -50%);
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  font-size: 8rem;
+  font-weight: 900;
+  color: #fff;
+}
+
+.step {
+  margin: 0 auto 2rem auto;
+  color: #fff;
+  background: transparent;
+}
+
+.step:last-child {
+  margin-bottom: 0;
+}
+
+.step.is-active h2 {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+.step h2 {
+  padding: 1em;
+  font-size: 1.25em;
+  background-color: #fff;
+  color: #000000;
+}
+
+.step img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.step .description {
+  background-color: #fff;
+  color: #000000;
+  padding: 1em;
+  font-size: 1em;
+}
+
+.step .description p {
+  margin-bottom: 1em;
+}
+
+.step .description p:last-child {
+  margin-bottom: 0;
+}
+
+/* mobile breakpoint */
+
+@media (max-width: 767.98px) {
+
+  article {
+    max-width: 25rem;
+    margin: 0 0 0 2em;
   }
 
-  #intro {
-    width: 100vw;
-    height: 90vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
+}
+
+@media (max-width: 575.98px) {
+
+  article {
+    max-width: 100%;
+    margin: 0 1em;
   }
-  
-  #intro h1 {
-    font-family: 'Merriweather', serif;
-    font-size: 3em;
-    margin-top: 0;
-    margin-bottom: 0.25em;
-  }
+
+}

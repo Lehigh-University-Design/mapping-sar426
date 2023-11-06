@@ -21,17 +21,15 @@
 
 		<section id="intro">
 			<div class="inner">
-				<h1>The paintings and the tragic life story of Artemisia Gentileschi
-				</h1>
-				<p>by Samia Rahman</p>
+				<h1>Egyptian Pyramids</h1>
+				<p>An exploration of the many pyramids of Egypt</p>
 			</div>
 		</section>
 
 		<section id="scrolly">
 			<figure>
-				<div id="masthead">
-					<h3>Artemisia Gentileschi</h3>
-				</div>
+				<!--<p class="ind">0</p>-->
+
 				<div id="map"></div>
 			</figure>
 
@@ -54,10 +52,10 @@
 
   			const data = await response.json();
 
-  			mapboxgl.accessToken = 'pk.eyJ1Ijoic2FtaWEtciIsImEiOiJjbG5tMXdzNWswM2RpMmxsbXFjdXFtOWR5In0.CjxHNepnlwWfsc2YlCyJ-Q';
+  			mapboxgl.accessToken = 'pk.eyJ1Ijoia2V2aW5sYWhvZGEiLCJhIjoiY2xuOWJucnEzMDVwcjJ2c2VtNWhuMTY4MCJ9.oDDjkq9KZ6BlMT2IlE6yig';
 			const map = new mapboxgl.Map({
 				container: 'map', // container ID
-				style: 'mapbox://styles/samia-r/clon8w5qy009701pe02h7bm1v', // style URL 
+				style: 'mapbox://styles/kevinlahoda/clnnkkqnh007g01pfafhlf0ze', // style URL
 				center: [31.134799, 29.975990], // starting position [lng, lat]
 				zoom: 16, // starting zoom
 				bearing: 27,
@@ -166,8 +164,7 @@
 
 				map.flyTo({
 					center: [response.element.dataset.long, response.element.dataset.lat],
-					essential: true, // this animation is considered essential with respect to prefers-reduced-motion
-					offset: [50, 0],
+					essential: true // this animation is considered essential with respect to prefers-reduced-motion
 				});
 
 				// add color to current step only
@@ -176,7 +173,7 @@
 				});
 
 				// update graphic based on step
-				//figure.select("p.ind").text(response.index);
+				figure.select("p.ind").text(response.index);
 			}
 
 
