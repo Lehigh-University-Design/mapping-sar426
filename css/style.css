@@ -139,6 +139,8 @@ figure p {
   margin: 0 auto 2rem auto;
   color: #fff;
   background: transparent;
+  background: transparent;
+  margin-bottom: 60vh;
 }
 
 .step:last-child {

@@ -4,7 +4,7 @@
 <head>
 	<meta charset="utf-8" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
-	<title>Mapbox Scrollytelling</title>
+	<title>Artemisia Gentileschi</title>
 	<meta name="description" content="Artemisia Gentileschi" />
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
 	<link rel="preconnect" href="https://fonts.googleapis.com">
@@ -60,7 +60,7 @@
 			const map = new mapboxgl.Map({
 				container: 'map', // container ID
 				style: 'mapbox://styles/samia-r/cloq5o7oj00eq01nsach4gnwx', // style URL 
-				center: [31.134799, 29.975990], // starting position [lng, lat]
+				center: [-0.08794, 51.4442], // starting position [lng, lat]
 				zoom: 16, // starting zoom
 				bearing: 27,
 				pitch: 45
@@ -146,7 +146,7 @@
 			function handleResize() {
 				// 1. update height of step elements
 				var stepH = Math.floor(window.innerHeight * 0.75);
-				step.style("height", stepH + "px");
+				//step.style("height", stepH + "px");
 
 				var figureHeight = window.innerHeight;
 				var figureMarginTop = (window.innerHeight - figureHeight) / 2;
