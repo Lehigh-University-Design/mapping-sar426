@@ -9,10 +9,10 @@ body {
 }
 
 body {
-  font-family: 'Lobster', sans-serif; 
-  color: #000000;
-  font-size: 16px;
-  min-height: 1280px;
+  font-family: 'Lobster', sans-serif;  
+  color: #5f3602;
+  font-size: 20px;
+  min-height: 1300px;
 }
 
 p,
@@ -164,8 +164,8 @@ figure p {
 }
 
 .step .description {
-  background-color: #fff;
-  color: #000000;
+  background-color: #f0e5e5;
+  color: #601414;
   padding: 1em;
   font-size: 1em;
 }
