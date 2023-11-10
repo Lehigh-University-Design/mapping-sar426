@@ -1,41 +1,4 @@
-{
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "Museum ": "National Gallery Art - Museum in Washington, D.C.",
-        "Title": "The Lute Player",
-        "Descirption": "<p>Orazio trained his daughter from an early age and introduced her to many famous artists with whom he was close with such artists as Caravaggio and Agostino Tassi (The Art History Archive). Being a close follower of Caravaggio from a young age, her paintings were considered to be the most dramatic use of light and shadow as well as realism just Caravaggio’s (Britannica-Artemisia Gentileschi). Gentileschi fought hard to be known as a successful female artist in the 17th century without the fame and power of her father, Orazio Gentileschi.",
-        "Date": "(1612/1620)",
-        "Image": "https://upload.wikimedia.org/wikipedia/commons/d/da/Orazio_Gentileschi_-_Il_suonatore_di_liuto_%28National_Gallery_of_Art%29.jpg "
-      },
-      "geometry": {
-        "coordinates": [
-          -76.99207,
-          38.89225
-        ],
-        "type": "Point"
-      },
-      "id": "0170ce49ae12a40f4ebf8d1724e47bec"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Museum ": "National Gallery - London",
-        "Title": "Self Portrait as Saint Catherine of Alexandria by Artemisia Gentileschi",
-        "Descirption": "<p>Artemisia Gentileschi was one of the most important female Italian Baroque painters. She was the daughter of Orazio Gentileschi, another Italian Baroque painter, who admired, followed, and was close friends with the leading Italian Baroque painter of the 16th and 17th century, Caravaggio (Britannica-Artemisia Gentileschi). During this art period, Baroque ideas were expressed through exaggerated depictions. In the 17th century, Artemisa gained the reputation of being the most honored female artist (The National Gallery). <p>",
-        "Date": "1615-1617",
-        "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Self-Portrait_as_Saint_Catherine_of_Alexandria_%28Gentileschi%29.jpg/1920px-Self-Portrait_as_Saint_Catherine_of_Alexandria_%28Gentileschi%29.jpg "
-      },
-      "geometry": {
-        "coordinates": [
-          -0.08794,
-          51.4442
-        ],
-        "type": "Point"
-      },
-      "id": "0f32166cd036d3b705a963c6eefc93d6"
-    },
+
     {
       "type": "Feature",
       "properties": {
@@ -53,13 +16,14 @@
         "type": "Point"
       },
       "id": "136161d6a8d082ee70d7edf04849d546"
-    },
+    },  
+
     {
       "type": "Feature",
       "properties": {
         "Museum ": "Museo e Real Bosco di Capodimonte - Museum in Naples, Italy",
         "Title": "Judith and Holofernes",
-        "Descirption": "<p>Most of her famous works \nrepresented her being a \nsuccessful female artist in the \n17th century as well as her \nbeing raped at the age of 18 \nby Agostino Tassi and the trial\nfor justice. During the trial, \nGentileschi was mentally and \nphysically tortured, as she was \nforced to reveal the truth of \nher being raped. She also had \nto give a humiliating \ngynecological examination. <p>",
+        "Description": "<p>Most of her famous works \nrepresented her being a \nsuccessful female artist in the \n17th century as well as her \nbeing raped at the age of 18 \nby Agostino Tassi and the trial\nfor justice. During the trial, \nGentileschi was mentally and \nphysically tortured, as she was \nforced to reveal the truth of \nher being raped. She also had \nto give a humiliating \ngynecological examination. <p>",
         "Date": "1612-1613",
         "Image": "https://en.wikipedia.org/wiki/Judith_beheading_Holofernes#/media/File:Judit_decapitando_a_Holofernes,_por_Artemisia_Gentileschi.jpg "
       },
@@ -75,9 +39,27 @@
     {
       "type": "Feature",
       "properties": {
+        "Museum ": "Museo Soumaya - Museum in Mexico City, Mexico",
+        "Title": "Mary Magdalene as Melancholy",
+        "Description": "<p>The portrait of Mary Magdalene is known to be representing the emotional and physical state of Gentileschi after being raped in 1611. The redness in the eyes and nose represents her pain and crying. The tired posture and the placement of hands show her state of suffering (Mary Magdalene as Melancholy - Google Arts and Culture). This art piece holds various similarities to the works by Caravaggio “with powerful stage lighting to heighten the effects of emotional drama”. It is currently located in Museo Soumaya (Soumaya Museum) in Mexico City (Artsy). <p>",
+        "Date": "1622-1625",
+        "Image": "https://en.wikipedia.org/wiki/Mary_Magdalene_as_Melancholy#/media/File:3415_Mar%C3%ADa_Magdalena_como_melancol%C3%ADa.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          -99.14342,
+          19.4407
+        ],
+        "type": "Point"
+      },
+      "id": "5169f7f1eacc3448b71c99f09c20be35"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Museum ": "National Gallery Art - Museum in Washington, D.C.",
         "Title": "The Lute Player",
-        "Descirption": "<p>Orazio trained his daughter from an early age and introduced her to many famous artists with whom he was close with such artists as Caravaggio and Agostino Tassi (The Art History Archive). Being a close follower of Caravaggio from a young age, her paintings were considered to be the most dramatic use of light and shadow as well as realism just Caravaggio’s (Britannica-Artemisia Gentileschi). Gentileschi fought hard to be known as a successful female artist in the 17th century without the fame and power of her father, Orazio Gentileschi.",
+        "Description": "<p>Orazio trained his daughter from an early age and introduced her to many famous artists with whom he was close with such artists as Caravaggio and Agostino Tassi (The Art History Archive). Being a close follower of Caravaggio from a young age, her paintings were considered to be the most dramatic use of light and shadow as well as realism just Caravaggio’s (Britannica-Artemisia Gentileschi). Gentileschi fought hard to be known as a successful female artist in the 17th century without the fame and power of her father, Orazio Gentileschi.",
         "Date": "(1612/1620)",
         "Image": "https://en.wikipedia.org/wiki/The_Lute_Player_%28Orazio_Gentileschi%29#/media/File:Orazio_Gentileschi_-_Il_suonatore_di_liuto_(National_Gallery_of_Art).jpg "
       },
@@ -95,7 +77,7 @@
       "properties": {
         "Museum ": "Palazzo Bianco, Genoa",
         "Title": "Ecce Homoc by Caravaggio, 1605",
-        "Descirption": "<p>In this era, Caravaggio, the father of Baroque art, had a heavy influence on Gentileschi. She used the patriarchal society of the 17th century in her artworks to her stand of being mistreated as a female; whether through her vulnerable self alone with her emotions or representing dominance by showing female power to men. <p>",
+        "Description": "<p>In this era, Caravaggio, the father of Baroque art, had a heavy influence on Gentileschi. She used the patriarchal society of the 17th century in her artworks to her stand of being mistreated as a female; whether through her vulnerable self alone with her emotions or representing dominance by showing female power to men. <p>",
         "Date": "1605",
         "Image": "https://en.wikipedia.org/wiki/Ecce_Homo_%28Caravaggio%29#/media/File:Caravaggio_(Michelangelo_Merisi)_-_Ecce_Homo_-_Google_Art_Project.jpg"
       },
@@ -108,48 +90,13 @@
       },
       "id": "22a705c1d65b2b722eec268fdc4a504f"
     },
-    {
-      "type": "Feature",
-      "properties": {
-        "Museum ": "National Gallery Art - Museum in Washington, D.C.",
-        "Title": "The Lute Player",
-        "Description": "<p>Orazio trained his daughter from an early age and introduced her to many famous artists with whom he was close with such artists as Caravaggio and Agostino Tassi (The Art History Archive). Being a close follower of Caravaggio from a young age, her paintings were considered to be the most dramatic use of light and shadow as well as realism just Caravaggio’s (Britannica-Artemisia Gentileschi). Gentileschi fought hard to be known as a successful female artist in the 17th century without the fame and power of her father, Orazio Gentileschi.",
-        "Date": "(1612/1620)",
-        "Image": "https://upload.wikimedia.org/wikipedia/commons/d/da/Orazio_Gentileschi_-_Il_suonatore_di_liuto_%28National_Gallery_of_Art%29.jpg "
-      },
-      "geometry": {
-        "coordinates": [
-          -76.99207,
-          38.89225
-        ],
-        "type": "Point"
-      },
-      "id": "3d9a2b9f21d66fdbf0dc20cf406605b2"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Museum ": "Museo Soumaya - Museum in Mexico City, Mexico",
-        "Title": "Mary Magdalene as Melancholy",
-        "Descirption": "<p>The portrait of Mary Magdalene is known to be representing the emotional and physical state of Gentileschi after being raped in 1611. The redness in the eyes and nose represents her pain and crying. The tired posture and the placement of hands show her state of suffering (Mary Magdalene as Melancholy - Google Arts and Culture). This art piece holds various similarities to the works by Caravaggio “with powerful stage lighting to heighten the effects of emotional drama”. It is currently located in Museo Soumaya (Soumaya Museum) in Mexico City (Artsy). <p>",
-        "Date": "1622-1625",
-        "Image": "https://en.wikipedia.org/wiki/Mary_Magdalene_as_Melancholy#/media/File:3415_Mar%C3%ADa_Magdalena_como_melancol%C3%ADa.jpg"
-      },
-      "geometry": {
-        "coordinates": [
-          -99.14342,
-          19.4407
-        ],
-        "type": "Point"
-      },
-      "id": "5169f7f1eacc3448b71c99f09c20be35"
-    },
+    
     {
       "type": "Feature",
       "properties": {
         "Museum ": "National Gallery - London",
         "Title": "Mary Magdalene in Ecstasy",
-        "Descirption": "<p>Throughout history, a large number of artists struggled to portray the 'feeling of melancholy', and fortunately Gentileschi was successful. The purposeful light on Mary and the darkness surrounding her, different colors, and texture of the piece is viewed as very unique which catches the attention of the viewers (Sardeli, 2020). <p>",
+        "Description": "<p>Throughout history, a large number of artists struggled to portray the 'feeling of melancholy', and fortunately Gentileschi was successful. The purposeful light on Mary and the darkness surrounding her, different colors, and texture of the piece is viewed as very unique which catches the attention of the viewers (Sardeli, 2020). <p>",
         "Date": " ",
         "Image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Artemisia_Gentileschi_-_Mary_Magdalene_in_Ecstasy.jpg"
       },
@@ -162,276 +109,4 @@
       },
       "id": "5d50b41cd899d68392155f1076c89266"
     },
-    {
-      "type": "Feature",
-      "properties": {
-        "Museum ": "Palazzo Bianco, Genoa",
-        "Title": "Ecce Homoc by Caravaggio, 1605",
-        "Descirption": "<p>In this era, Caravaggio, the father of Baroque art, had a heavy influence on Gentileschi. She used the patriarchal society of the 17th century in her artworks to her stand of being mistreated as a female; whether through her vulnerable self alone with her emotions or representing dominance by showing female power to men. <p>",
-        "Date": "1605",
-        "Image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Caravaggio_%28Michelangelo_Merisi%29_-_Ecce_Homo_-_Google_Art_Project.jpg "
-      },
-      "geometry": {
-        "coordinates": [
-          8.932541,
-          44.410111
-        ],
-        "type": "Point"
-      },
-      "id": "6594bfd62a475e71021e349910212441"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Museum ": "Museo e Real Bosco di Capodimonte - Museum in Naples, Italy",
-        "Title": "Judith and Holofernes",
-        "Description": "<p>Most of her famous works \nrepresented her being a \nsuccessful female artist in the \n17th century as well as her \nbeing raped at the age of 18 \nby Agostino Tassi and the trial\nfor justice. During the trial, \nGentileschi was mentally and \nphysically tortured, as she was \nforced to reveal the truth of \nher being raped. She also had \nto give a humiliating \ngynecological examination. <p>",
-        "Date": "1612-1613",
-        "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Judit_decapitando_a_Holofernes%2C_por_Artemisia_Gentileschi.jpg/1280px-Judit_decapitando_a_Holofernes%2C_por_Artemisia_Gentileschi.jpg "
-      },
-      "geometry": {
-        "coordinates": [
-          14.2512,
-          40.8692
-        ],
-        "type": "Point"
-      },
-      "id": "74e1cf58ecfa6e95abbe916e28645010"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Museum ": "National Gallery - London",
-        "Title": "Mary Magdalene in Ecstasy",
-        "Descirption": "<p>Throughout history, a large number of artists struggled to portray the ‘feeling of melancholy’, and fortunately Gentileschi was successful. The purposeful light on Mary and the darkness surrounding her, different colors, and texture of the piece is viewed as very unique which catches the attention of the viewers (Sardeli, 2020). <p>",
-        "Date": " ",
-        "Image": "https://en.wikipedia.org/wiki/Mary_Magdalene_in_Ecstasy#/media/File:Artemisia_Gentileschi_-_Mary_Magdalene_in_Ecstasy.jpg "
-      },
-      "geometry": {
-        "coordinates": [
-          -0.08794,
-          51.4442
-        ],
-        "type": "Point"
-      },
-      "id": "7801773aaecd2aa595eafbd3d33a5f39"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Museum ": "National Gallery - London",
-        "Title": "Self Portrait as Saint Catherine of Alexandria by Artemisia Gentileschi",
-        "Description": "<p>Artemisia Gentileschi was one of the most important female Italian Baroque painters. She was the daughter of Orazio Gentileschi, another Italian Baroque painter, who admired, followed, and was close friends with the leading Italian Baroque painter of the 16th and 17th century, Caravaggio (Britannica-Artemisia Gentileschi). During this art period, Baroque ideas were expressed through exaggerated depictions. In the 17th century, Artemisa gained the reputation of being the most honored female artist (The National Gallery). <p>",
-        "Date": "1615-1617",
-        "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Self-Portrait_as_Saint_Catherine_of_Alexandria_%28Gentileschi%29.jpg/1920px-Self-Portrait_as_Saint_Catherine_of_Alexandria_%28Gentileschi%29.jpg "
-      },
-      "geometry": {
-        "coordinates": [
-          -0.08794,
-          51.4442
-        ],
-        "type": "Point"
-      },
-      "id": "8445df959b96be09417ea87be4afbe54"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Museum ": "National Gallery - London",
-        "Title": "Mary Magdalene in Ecstasy",
-        "Description": "<p>Throughout history, a large number of artists struggled to portray the ‘feeling of melancholy’, and fortunately Gentileschi was successful. The purposeful light on Mary and the darkness surrounding her, different colors, and texture of the piece is viewed as very unique which catches the attention of the viewers (Sardeli, 2020). <p>",
-        "Date": " ",
-        "Image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Artemisia_Gentileschi_-_Mary_Magdalene_in_Ecstasy.jpg "
-      },
-      "geometry": {
-        "coordinates": [
-          -0.08794,
-          51.4442
-        ],
-        "type": "Point"
-      },
-      "id": "8d19bdc55081b13950b6dbe9f31c72c0"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Museum ": "National Gallery - London",
-        "Title": "Mary Magdalene in Ecstasy",
-        "Description": "<p>Throughout history, a large number of artists struggled to portray the ‘feeling of melancholy’, and fortunately Gentileschi was successful. The purposeful light on Mary and the darkness surrounding her, different colors, and texture of the piece is viewed as very unique which catches the attention of the viewers (Sardeli, 2020). <p>",
-        "Date": " ",
-        "Image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Artemisia_Gentileschi_-_Mary_Magdalene_in_Ecstasy.jpg "
-      },
-      "geometry": {
-        "coordinates": [
-          -0.08794,
-          51.4442
-        ],
-        "type": "Point"
-      },
-      "id": "8e45e2a94e8f8be54d3f59036372f17f"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Museum ": "Museo Soumaya - Museum in Mexico City, Mexico",
-        "Title": "Mary Magdalene as Melancholy",
-        "Description": "<p>The portrait of Mary Magdalene is known to be representing the emotional and physical state of Gentileschi after being raped in 1611. The redness in the eyes and nose represents her pain and crying. The tired posture and the placement of hands show her state of suffering (Mary Magdalene as Melancholy - Google Arts and Culture). This art piece holds various similarities to the works by Caravaggio “with powerful stage lighting to heighten the effects of emotional drama”. It is currently located in Museo Soumaya (Soumaya Museum) in Mexico City (Artsy). <p>",
-        "Date": "1622-1625",
-        "Image": "https://upload.wikimedia.org/wikipedia/commons/b/b0/3415_Mar%C3%ADa_Magdalena_como_melancol%C3%ADa.jpg "
-      },
-      "geometry": {
-        "coordinates": [
-          -99.14342,
-          19.4407
-        ],
-        "type": "Point"
-      },
-      "id": "a3c5a87e814e40fdf7b1f5b4ba0ee65e"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Museum ": "National Gallery Art - Museum in Washington, D.C.",
-        "Title": "The Lute Player",
-        "Description": "<p>Orazio trained his daughter from an early age and introduced her to many famous artists with whom he was close with such artists as Caravaggio and Agostino Tassi (The Art History Archive). Being a close follower of Caravaggio from a young age, her paintings were considered to be the most dramatic use of light and shadow as well as realism just Caravaggio’s (Britannica-Artemisia Gentileschi). Gentileschi fought hard to be known as a successful female artist in the 17th century without the fame and power of her father, Orazio Gentileschi.",
-        "Date": "(1612/1620)",
-        "Image": "https://upload.wikimedia.org/wikipedia/commons/d/da/Orazio_Gentileschi_-_Il_suonatore_di_liuto_%28National_Gallery_of_Art%29.jpg "
-      },
-      "geometry": {
-        "coordinates": [
-          -76.99207,
-          38.89225
-        ],
-        "type": "Point"
-      },
-      "id": "a3e4ce0e6fe6556946cea4b4f9dc7abb"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Museum ": "Museo e Real Bosco di Capodimonte - Museum in Naples, Italy",
-        "Title": "Judith and Holofernes",
-        "Description": "<p>Most of her famous works \nrepresented her being a \nsuccessful female artist in the \n17th century as well as her \nbeing raped at the age of 18 \nby Agostino Tassi and the trial\nfor justice. During the trial, \nGentileschi was mentally and \nphysically tortured, as she was \nforced to reveal the truth of \nher being raped. She also had \nto give a humiliating \ngynecological examination. <p>",
-        "Date": "1612-1613",
-        "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Judit_decapitando_a_Holofernes%2C_por_Artemisia_Gentileschi.jpg/1280px-Judit_decapitando_a_Holofernes%2C_por_Artemisia_Gentileschi.jpg "
-      },
-      "geometry": {
-        "coordinates": [
-          14.2512,
-          40.8692
-        ],
-        "type": "Point"
-      },
-      "id": "a77faeec127a23258bbc8eaad53dabba"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Museum ": "Museo Soumaya - Museum in Mexico City, Mexico",
-        "Title": "Mary Magdalene as Melancholy",
-        "Descirption": "<p>The portrait of Mary Magdalene is known to be representing the emotional and physical state of Gentileschi after being raped in 1611. The redness in the eyes and nose represents her pain and crying. The tired posture and the placement of hands show her state of suffering (Mary Magdalene as Melancholy - Google Arts and Culture). This art piece holds various similarities to the works by Caravaggio “with powerful stage lighting to heighten the effects of emotional drama”. It is currently located in Museo Soumaya (Soumaya Museum) in Mexico City (Artsy). <p>",
-        "Date": "1622-1625",
-        "Image": "https://upload.wikimedia.org/wikipedia/commons/b/b0/3415_Mar%C3%ADa_Magdalena_como_melancol%C3%ADa.jpg "
-      },
-      "geometry": {
-        "coordinates": [
-          -99.14342,
-          19.4407
-        ],
-        "type": "Point"
-      },
-      "id": "adb7b01a831abda994fe58ebfddefe98"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Museum ": "Palazzo Bianco, Genoa",
-        "Title": "Ecce Homoc by Caravaggio, 1605",
-        "Description": "<p>In this era, Caravaggio, the father of Baroque art, had a heavy influence on Gentileschi. She used the patriarchal society of the 17th century in her artworks to her stand of being mistreated as a female; whether through her vulnerable self alone with her emotions or representing dominance by showing female power to men. <p>",
-        "Date": "1605",
-        "Image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Caravaggio_%28Michelangelo_Merisi%29_-_Ecce_Homo_-_Google_Art_Project.jpg "
-      },
-      "geometry": {
-        "coordinates": [
-          8.932541,
-          44.410111
-        ],
-        "type": "Point"
-      },
-      "id": "bd4ac88082fa866410f332df9c2976b2"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Museum ": "Palazzo Bianco, Genoa",
-        "Title": "Ecce Homoc by Caravaggio, 1605",
-        "Description": "<p>In this era, Caravaggio, the father of Baroque art, had a heavy influence on Gentileschi. She used the patriarchal society of the 17th century in her artworks to her stand of being mistreated as a female; whether through her vulnerable self alone with her emotions or representing dominance by showing female power to men. <p>",
-        "Date": "1605",
-        "Image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Caravaggio_%28Michelangelo_Merisi%29_-_Ecce_Homo_-_Google_Art_Project.jpg "
-      },
-      "geometry": {
-        "coordinates": [
-          8.932541,
-          44.410111
-        ],
-        "type": "Point"
-      },
-      "id": "d02f0a7490b996d2bc1944f1fcc65563"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Museum ": "National Gallery - London",
-        "Title": "Self Portrait as Saint Catherine of Alexandria by Artemisia Gentileschi",
-        "Descirption": "<p>Artemisia Gentileschi was one of the most important female Italian Baroque painters. She was the daughter of Orazio Gentileschi, another Italian Baroque painter, who admired, followed, and was close friends with the leading Italian Baroque painter of the 16th and 17th century, Caravaggio (Britannica-Artemisia Gentileschi). During this art period, Baroque ideas were expressed through exaggerated depictions. In the 17th century, Artemisa gained the reputation of being the most honored female artist (The National Gallery). <p>",
-        "Date": "1615-1617",
-        "Image": "https://en.wikipedia.org/wiki/Self-Portrait_as_Saint_Catherine_of_Alexandria#/media/File:Self-Portrait_as_Saint_Catherine_of_Alexandria_(Gentileschi).jpg "
-      },
-      "geometry": {
-        "coordinates": [
-          -0.08794,
-          51.4442
-        ],
-        "type": "Point"
-      },
-      "id": "dbf1c06566da19f7f014168f22214da0"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Museum ": "Museo Soumaya - Museum in Mexico City, Mexico",
-        "Title": "Mary Magdalene as Melancholy",
-        "Description": "<p>The portrait of Mary Magdalene is known to be representing the emotional and physical state of Gentileschi after being raped in 1611. The redness in the eyes and nose represents her pain and crying. The tired posture and the placement of hands show her state of suffering (Mary Magdalene as Melancholy - Google Arts and Culture). This art piece holds various similarities to the works by Caravaggio “with powerful stage lighting to heighten the effects of emotional drama”. It is currently located in Museo Soumaya (Soumaya Museum) in Mexico City (Artsy). <p>",
-        "Date": "1622-1625",
-        "Image": "https://upload.wikimedia.org/wikipedia/commons/b/b0/3415_Mar%C3%ADa_Magdalena_como_melancol%C3%ADa.jpg "
-      },
-      "geometry": {
-        "coordinates": [
-          -99.14342,
-          19.4407
-        ],
-        "type": "Point"
-      },
-      "id": "dce0bfecdfac751e70de9753bcd5872a"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Museum ": "Museo e Real Bosco di Capodimonte - Museum in Naples, Italy",
-        "Title": "Judith and Holofernes",
-        "Descirption": "<p>Most of her famous works \nrepresented her being a \nsuccessful female artist in the \n17th century as well as her \nbeing raped at the age of 18 \nby Agostino Tassi and the trial\nfor justice. During the trial, \nGentileschi was mentally and \nphysically tortured, as she was \nforced to reveal the truth of \nher being raped. She also had \nto give a humiliating \ngynecological examination. <p>",
-        "Date": "1612-1613",
-        "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Judit_decapitando_a_Holofernes%2C_por_Artemisia_Gentileschi.jpg/1280px-Judit_decapitando_a_Holofernes%2C_por_Artemisia_Gentileschi.jpg "
-      },
-      "geometry": {
-        "coordinates": [
-          14.2512,
-          40.8692
-        ],
-        "type": "Point"
-      },
-      "id": "f9ed4dbe0c217ae9f54dc34b4cf537d7"
-    }
-  ],
-  "type": "FeatureCollection"
-}
+    
