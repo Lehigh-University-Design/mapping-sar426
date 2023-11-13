@@ -148,14 +148,14 @@ figure p {
 }
 
 .step.is-active h2 {
-  background-color: #121211;
+  background-color: #0f0f0e;
   color: #540c0c;
 }
 
 .step h2 {
   padding: 1em;
   font-size: 1.25em;
-  background-color: #161515;
+  background-color: #151313;
   color: #6a1212;
 }
 
