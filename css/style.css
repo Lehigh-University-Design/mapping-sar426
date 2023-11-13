@@ -148,7 +148,7 @@ figure p {
 }
 
 .step.is-active h2 {
-  background-color: #000000;
+  background-color: #e8d0d0;
   color: #ffffff;
 }
 
@@ -166,7 +166,7 @@ figure p {
 }
 
 .step .description {
-  background-color: #efe0e0;
+  background-color: #ece2e2;
   color: #601414;
   padding: 1em;
   font-size: 1em;
