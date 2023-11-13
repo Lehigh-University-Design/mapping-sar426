@@ -155,7 +155,7 @@ figure p {
 .step h2 {
   padding: 1em;
   font-size: 1.25em;
-  background-color: #fff;
+  background-color: #e0caca;
   color: #000000;
 }
 
@@ -166,7 +166,7 @@ figure p {
 }
 
 .step .description {
-  background-color: #090808;
+  background-color: #efe0e0;
   color: #601414;
   padding: 1em;
   font-size: 1em;
