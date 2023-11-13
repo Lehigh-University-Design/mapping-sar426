@@ -32,7 +32,7 @@ h3 {
 a,
 a:visited,
 a:hover {
-  color: teal;
+  color: rgb(109, 13, 13);
   text-decoration: none;
   border-bottom: 2px solid currentColor;
 }
@@ -132,7 +132,7 @@ figure p {
   transform: translate(-50%, -50%);
   font-size: 8rem;
   font-weight: 900;
-  color: #fff;
+  color: #5a1212;
 }
 
 .step {
@@ -149,7 +149,7 @@ figure p {
 
 .step.is-active h2 {
   background-color: #e8d0d0;
-  color: #ffffff;
+  color: #540c0c;
 }
 
 .step h2 {
